@@ -118,4 +118,15 @@ a: 1
 
 # Exercise 2. Word Cloud (Google Colab) 
 
+The word cloud displays the most frequently occurring words in a text, with the size of each word corresponding to its frequency. In the genarated image, the most prominent words include “will,” “one,” “now,” “said,” and “Rochester.” These words appear larger, suggesting they are used more frequently in the text compared to smaller words.
 
+Here’s an observation of the word cloud:
+
+	•	“Will” and “Now” are the largest, implying frequent use of future-oriented statements or intentions within the text.
+	•	“One,” “said,” and “Rochester” also stand out, indicating a focus on dialogue or a particular character (likely Mr. Rochester).
+	•	Other notable words, like “thought,” “face,” “house,” “little,” “eye,” and “heart,” suggest themes of introspection, setting, and emotions.
+	•	Character names like “Mr. Rochester,” “St. John,” and “Bessie” imply a narrative involving multiple individuals, potentially with relationships or conflicts among them.
+
+
+
+ 
